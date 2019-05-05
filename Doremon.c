@@ -71,7 +71,6 @@ void display()
     glScalef(1.199,1,0);
     circle(170,180,360);
     glPopMatrix();
-    //
     glPushMatrix();
     glBegin(GL_LINES);
     glVertex2f(-50,0);
